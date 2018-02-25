@@ -11,7 +11,7 @@ int main()
   char name[100];
 
   printf("Project By : DEBUGGERS\n");
-  printf("\nTeam Members : \n(1)Md. Akif Zaman\n(2)\Peal Mazumder\n(3)Mahabuba Sharmin\n(4)Jahangir Alam\n(5)Md. Ashikur Rahman\n");
+  printf("\nTeam Members : \n(1)Md. Akif Zaman\n(2)Peal Mazumder\n(3)Mahabuba Sharmin\n(4)Jahangir Alam\n(5)Md. Ashikur Rahman\n");
   intro();
 
   printf("Press any key to continue...\n");
